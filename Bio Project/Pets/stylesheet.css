@@ -1,0 +1,26 @@
+p{
+	color: #f0ebf4;
+}
+p{ 
+	color:white;
+	font-size:30px
+}
+table{
+	width:100%;
+	color: #38ff7e;
+	table-layout: fixed;
+	background-color:#a5asaf;
+}
+td{
+	color: #a5asafS;
+	border-radius:15px;
+}
+a{
+	background-color: #a5a5af;
+	border-radius:15px;S
+}
+body{
+	text-align:center;
+	background-image: linear-gradient(to right,#77c9d4,#57bc90);
+	background-size: cover;
+}
